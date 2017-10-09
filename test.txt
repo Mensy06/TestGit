@@ -1,1 +1,4 @@
-Ovo je proba za Git
+Ovo je proba za Git, 
+123
+456
+789
